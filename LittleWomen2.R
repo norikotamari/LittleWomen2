@@ -10,3 +10,4 @@ Littlewomen_plot <- ggplot(data=little_women,
 # Draw plot
 print(Littlewomen_plot)
 
+getwd()
